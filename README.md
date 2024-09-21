@@ -21,7 +21,6 @@ Shift 1 | Shift 2 | Symbol/Sign Name
 Because there are so many [emojis to use on gitbub](https://gist.github.com/rxaviers/7360908) ,
 Here's a few that I like:
 
-* :revolving_hearts:
-* :sparkling_heart:
-* :libra:
+* :metal::satisfied::metal:
+* :kissing_closed_eyes::two_hearts:
 * :bike:
