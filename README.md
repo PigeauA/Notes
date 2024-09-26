@@ -24,3 +24,22 @@ Here's a few that I like:
 * :metal::satisfied::metal:
 * :kissing_closed_eyes::two_hearts:
 * :bike:
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)
+- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+- New Incognito Window: CONTROL + SHIFT + N
+- Insert key: NUM LOCK ON + 0
+- Bullet: ASTERISK + SPACE
+- Clip board: Windows logo key + V
+- To backtrack a web window's history: ALT + Left Key
+
+
+
