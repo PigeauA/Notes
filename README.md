@@ -42,4 +42,4 @@ Shortcuts I would like to start using:
 - To backtrack a web window's history: ALT + Left Key
 
 
-
+This is an example hyperlink: [CLI commands](docs/cli.md).
