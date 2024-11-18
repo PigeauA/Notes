@@ -29,7 +29,9 @@ WHERE status like 'Completed%';
 
 -- OPTIONAL TASKS
 -- 1. Count of "Not Started" Assignments: Write a query to find the total number of assignments with a status of "Not Started". Remember to use single quotes for strings in SQL.
-
+SELECT COUNT(status)
+FROM assignments
+WHERE status like 'Not Started%';
 
 -- 2. Find Courses with Labs on Tuesday: Write a query to find the course_id and course_name of courses that have lab sessions on Tuesday. Hint: use LIKE 'Tue%
 SELECT course_id, course_name
