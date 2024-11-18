@@ -39,3 +39,7 @@ FROM courses
 WHERE lab_time like 'Tue%';
 
 -- 3. Write a query that joins the two tables: Hint -> JOIN the_other_table   ON courses.course_id = assignments.course_id
+SELECT assignments.course_id, assignments.title, assignments.due_date
+FROM assignments
+JOIN courses
+ON courses.course_id = assignments.course_id;
