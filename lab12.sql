@@ -30,3 +30,13 @@ SELECT title from assignments WHERE due_date like '____-09-__';
 --    Note, there are no assignments with NULL due_dates initially, but one was added if you ran the INSERT statement in the examples above. 
 --    Hint: due_date IS NULL
 SELECT title FROM assignments WHERE due_date IS NULL;
+
+-- Optional Tasks
+-- 2. Courses Without Assignments (advanced):
+--    Write a query to find all courses that do not have any assignments.
+--    Hint: LEFT JOIN ... WHERE assignments.id IS NULL
+SELECT courses.course_id, courses.course_name
+FROM courses
+LEFT JOIN assignments 
+ON courses.course_id = assignments.course_id
+WHERE assignments.id = NULL;
